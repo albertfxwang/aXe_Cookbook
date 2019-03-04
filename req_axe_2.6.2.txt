@@ -224,7 +224,7 @@ stginga=0.2.1=py27_0
 stistools=1.1=py27_1
 stsci=3.0.0=py27_0
 stsci-data-analysis=2.0.2=py27_0
-stsci-hst=3.0.1=0
+stsci-hst=3.1.0=py27_0
 stsci.convolve=2.2.1=py27_0
 stsci.distutils=0.3.8=py27_1
 stsci.image=2.2.0=py27_1
